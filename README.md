@@ -1,14 +1,10 @@
 # charging_station_finder_app_ui
 
-## Support
+This project is a app that shows a map with Electric Charging Stations and their information. The app supports station markers clustering.
+The app runs on Android, iOS and Web.
+The app is built using Flutter 3.3 and Dart.
+The app is built using the MVVM architecture.
 
-<p>
-<a href="https://sociabuzz.com/syarifhidayatullah2020/tribe" target='_blank'>
-<img src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//landing-page/img/sociabuzz-logo.png" width="100"></a>
-
-<a href="https://www.buymeacoffee.com/syarifhidayat"  target='_blank'>
-<img src="https://media.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif" width="100"></a>
-</p>
 
 
 ## Preview

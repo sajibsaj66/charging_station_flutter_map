@@ -10,14 +10,6 @@
 <img src="https://media.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif" width="100"></a>
 </p>
 
-## UI/UX
-
-<a href="https://dribbble.com/shots/21940387-Electric-Car-Mobile-App-Carbit"  target='_blank'><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Dribbble_logo.png" width="100"></a>
-
-## Youtube
-
-<a href="https://youtu.be/mMHwsY2h5GU" target='_blank'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/200px-YouTube_Logo_2017.svg.png" width="100"></a>
 
 ## Preview
 
